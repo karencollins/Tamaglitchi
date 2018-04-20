@@ -1,0 +1,19 @@
+  body {
+	  padding: 20px;
+	  margin: 20px;
+	  background-color: #FFC300;
+}
+
+#game-canvas {
+  position: relative;
+	z-index: -1;
+	
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#font-face { font-famly: 'VT323'; }
